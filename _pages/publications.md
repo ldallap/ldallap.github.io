@@ -34,7 +34,8 @@ Featured in:
 [APS Physics](https://physics.aps.org/articles/v12/s60)  
 [Quanta Magazine](https://www.quantamagazine.org/do-brains-operate-at-a-tipping-point-new-clues-and-complications-20190610/)  
 [Ars Technica](https://arstechnica.com/science/2019/06/does-the-human-brain-teeter-on-the-edge-of-chaos-rat-brains-point-to-yes/)  
-
+[Physics World](https://physicsworld.com/a/does-the-brain-awaken-via-a-continuous-phase-transition/)  
+[Phys.org](https://phys.org/news/2019-05-evidence-phase-transition-rats.html)  
 
 [Modeling neuronal avalanches and long-range temporal correlations at the emergence of collective oscillations: Continuously varying exponents mimic M/EEG results](
 https://doi.org/10.1371/journal.pcbi.1006924)  
