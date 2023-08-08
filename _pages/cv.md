@@ -20,6 +20,7 @@ Education
 
 Research experience
 ======
+**2023** Visiting Researcher, [Jirsa Lab](https://ins-amu.fr/jirsaviktor), *INS-AMU, FR*.
 **2022-** Postdoctoral Researcher, [Sanchez-Vives Lab](https://www.clinicbarcelona.org/en/idibaps/research-areas/clinical-and-experimental-neuroscience/systems-neuroscience), *IDIBAPS, ES*.
 **2018-2022** Doctoral Researcher, [Sanchez-Vives Lab](https://www.clinicbarcelona.org/en/idibaps/research-areas/clinical-and-experimental-neuroscience/systems-neuroscience), *IDIBAPS, ES*.
 **2017** Visiting Researcher, [Mirasso Lab](https://ifisc.uib-csic.es/users/claudio/), *IFISC, ES*.
