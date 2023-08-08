@@ -31,10 +31,9 @@ Leonardo Dalla Porta, Fernanda S. Matias, Alfredo J. dos Santos, Ana Alonso, Ped
 [Criticality between Cortical States](https://doi.org/10.1103/PhysRevLett.122.208101)  
 Antonio J. Fontenele, Nivaldo A. P. de Vasconcelos, Thais Feliciano, Leandro A. A. Aguiar, Carina Soares-Cunha, Barbara Coimbra, Leonardo Dalla Porta, Sidarta Ribeiro, Ana Joao Rodrigues, Nuno Sousa, Pedro V. Carelli, and Mauro Copelli. *Phys. Rev. Lett.*,  122, 208101, 2019.  
 Featured in:  
-[APS Physics](https://physics.aps.org/articles/v12/s60)
-[Quanta Magazine](https://www.quantamagazine.org/do-brains-operate-at-a-tipping-point-new-clues-and-complications-20190610/)
-[Ars Technica](https://arstechnica.com/science/2019/06/does-the-human-brain-teeter-on-the-edge-of-chaos-rat-brains-point-to-yes/)
-[Featured in: APS physics, Quanta Magazine, Physics World and Ars Technica]
+[APS Physics](https://physics.aps.org/articles/v12/s60)  
+[Quanta Magazine](https://www.quantamagazine.org/do-brains-operate-at-a-tipping-point-new-clues-and-complications-20190610/)  
+[Ars Technica](https://arstechnica.com/science/2019/06/does-the-human-brain-teeter-on-the-edge-of-chaos-rat-brains-point-to-yes/)  
 
 
 [Modeling neuronal avalanches and long-range temporal correlations at the emergence of collective oscillations: Continuously varying exponents mimic M/EEG results](
