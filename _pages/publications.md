@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 You can also find my articles on [Google Scholar](https://scholar.google.com/citations?user=B_somIgAAAAJ&hl=en).  
-For any request or further information contact me at *leonardodallaporta at gmail*.  
+For any request or further information contact me at *leonardodallaporta at gmaildotcom*.  
 
 Publications
 =====
