@@ -9,38 +9,20 @@ redirect_from:
 
 {% include base_path %}
 
-[(Full CV)](https://www.dropbox.com/scl/fi/tcfgaipw59rg0i9290fjj/LDALLAP_AcademicCV.pdf?rlkey=rxxw3ey47dktn5je3mkdm6a0f&dl=0)
+[Full CV](https://www.dropbox.com/scl/fi/tcfgaipw59rg0i9290fjj/LDALLAP_AcademicCV.pdf?rlkey=rxxw3ey47dktn5je3mkdm6a0f&dl=0)
 
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Medical Physics, Franciscan University, 2013
+* M.S. Physics, Federal University of Pernambuco, 2016
+* Ph.D. in Computational and Applied Physics, Polytechnic University of Catalonia, 2022
 
-Work experience
+Research experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-#Publications
-#======
- # <ul>{% for post in site.publications %}
-  #  {% include archive-single-cv.html %}
-  #{% endfor %}</ul>
+**2022-** Postdoctoral Researcher, [Sanchez-Vives Lab](https://www.clinicbarcelona.org/en/idibaps/research-areas/clinical-and-experimental-neuroscience/systems-neuroscience), *IDIBAPS, ES*
+**2018-2022** Doctoral Researcher, [Sanchez-Vives Lab](https://www.clinicbarcelona.org/en/idibaps/research-areas/clinical-and-experimental-neuroscience/systems-neuroscience), *IDIBAPS, ES*
+**2017** Visiting Researcher, [Mirasso Lab](https://ifisc.uib-csic.es/users/claudio/), *IFISC, ES*
+**2017** Visiting Researcher, [Canals Lab](https://canalslab.com/member/santiago-canals/), *IN-UMH, ES*
+**2014-2017** Researcher, [Copelli Lab](https://scholar.google.com/citations?user=EzJn-hAAAAAJ&hl=en), *UFPE, BR*
+**2013** Lab Technician, [Mathor Lab](https://www.ipen.br/portal_por/portal/default.php), *IPEN, BR*
