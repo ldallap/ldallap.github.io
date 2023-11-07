@@ -12,6 +12,5 @@ I'm not a professional; quite the opposite, I'm a newbie sport climber.
 In this tab, I intend to list my achievements in the climbing world, as well as some projects that are still ongoing.  
 
 **Redpoint**  
-* 7a/5.11d _Sarai_ (23/11/01) - Font-freda, Gelida/ES.
-
-
+* 7a/5.11d _Sarai_ (23/11/01) - Font-freda, Gelida/ES.  
+  Awesome route. Consists of 8 quickdraws, where you can move nicely and without too much trouble to the last bolt. There you find the crux of the route. My beta was to go right hand to the high pinch while holding a small left crimper. Raise left foot in a slippery foothold, and then move left hand to the very good two-finger pocket on the left. The route is completed from there
