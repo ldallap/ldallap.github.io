@@ -12,6 +12,6 @@ I'm not a professional; quite the opposite, I'm a newbie sport climber.
 In this tab, I intend to list my achievements in the climbing world, as well as some projects that are still ongoing.  
 
 **Redpoint**  
-* 7a/5.11d _Sarai_ - Font-freda, Gelida/ES. 23/11/01.
+* 7a/5.11d _Sarai_ (23/11/01) - Font-freda, Gelida/ES.
 
 
