@@ -14,9 +14,9 @@ redirect_from:
 
 Education
 ======
-* Ph.D. in Computational and Applied Physics, Polytechnic University of Catalonia, 2022  
-* M.S. Physics, Federal University of Pernambuco, 2016  
-* B.S. in Medical Physics, Franciscan University, 2013  
+* Ph.D. in Computational and Applied Physics, Polytechnic University of Catalonia (UPC), 2022  
+* M.S. Physics, Federal University of Pernambuco (UFPE), 2016  
+* B.S. in Medical Physics, Franciscan University (UFN), 2013  
 
 Research experience
 ======
