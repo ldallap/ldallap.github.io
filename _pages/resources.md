@@ -19,8 +19,8 @@ Spain
 =========
 [Ramon y Cajal](https://www.aei.gob.es/convocatorias/buscador-convocatorias/ayudas-contratos-ramon-cajal-ryc-2022)  
 [Juan de la Cierva](https://www.aei.gob.es/en/announcements/announcements-finder/ayudas-contratos-juan-cierva-2022)  
-[la Caixa Foundation](https://lacaixafoundation.org/en/postdoctoral-junior-leader-fellowships-description)
-
+[la Caixa Foundation](https://lacaixafoundation.org/en/postdoctoral-junior-leader-fellowships-description)  
+[Beatriz Galindo](https://www.universidades.gob.es/convocatoria-beatriz-galindo-de-ayudas-para-la-atraccion-del-talento-investigador-2022/)  
 
 List from Johns Hopkins   
 ==========
