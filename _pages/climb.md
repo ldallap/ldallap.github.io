@@ -19,5 +19,5 @@ In this tab, I intend to list my achievements in the climbing world, as well as 
   Gelida style. 7 quickdraws long. 2 boulder problems at the start (3ish movements each) followed by good rests. The following is accessible until the last bolt where the crux starts. The last move is shared with Sarai (7a; left-side). Nice and recommended climb.  
 
 **Projects**
-* 7a/5.11d _ N.N. (no28) / Climb Around B no19 _ 23/12/27 - Font-freda, Gelida/ES.
+* 7a/5.11d _N.N. (no28) / Climb Around B no19_ 23/12/27 - Font-freda, Gelida/ES.
   Tough day. I set the quickdraws resting and checking the steps. I didn´t find any special hard move and thought it would be an easy ascent. But yeah, the rock is ruthless. I nice flew on the third quickdraw. Tried it again but was too pumped to finish. It's definitely a route of consistency. For another day.
