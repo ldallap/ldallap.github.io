@@ -20,8 +20,8 @@ In this tab, I intend to list my achievements in the climbing world, as well as 
 
 * 7a/5.11d; _N.N. (no28) / Climb Around B no19_, 23/12/27 - Font-freda, Gelida/ES.
   Tough day. I set the quickdraws resting and checking the steps. I didn´t find any special hard move and thought it would be an easy ascent. But yeah, the rock is ruthless. I had a nice flight on the third quickdraw. I tried it again but was too pumped to finish. It's definitely a route of consistency. For another day.
-  Redpoint on 04/12/24. Ascent done while placing the quickdraws. This route is about consistency. Take good rest when possible and just move up.  
+  Redpoint on 24/01/03. Ascent done while placing the quickdraws. This route is about consistency. Take good rest when possible and just move up.  
 
 **Projects**
-* 7a+/5.12a; _Chapas negras_, 23/12/27 - Font-freda, Gelida/ES.  
+* 7a+/5.12a; _Chapas negras_, 24/01/03 - Font-freda, Gelida/ES.  
   Beautiful route. The crux is in the middle of the route just before getting to the "big eye". There are like 3 small crimps that you need to cross before getting to a jug on the left, inside the "big eye". From there the route is done. To get to the chain, after the last quickdraw, you need to go through the right. Once on the top, you do a small traverse to the left and clip the chain.  
