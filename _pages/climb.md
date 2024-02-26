@@ -24,4 +24,4 @@ In this tab, I intend to list my achievements in the climbing world, as well as 
 
 **Projects**
 * 7a+/5.12a; _Chapas negras_, 24/01/03 - Font-freda, Gelida/ES.  
-  Beautiful route. The crux is in the middle of the route just before getting to the "big eye". There are like 3 small crimps that you need to cross before getting to a jug on the left, inside the "big eye". From there the route is done. To get to the chain, after the last quickdraw, you need to go through the right. Once on the top, you do a small traverse to the left and clip the chain.  
+  Beautiful route. The crux is in the middle of the route just before getting to the "big eye". There are 3 small crimps that you need to cross before getting to a jug on the left, inside the "big eye". From there the route is about endurance, with no hard moves in what follows next. After the last quickdraw before the chain, you go through the right. Once on the top, you do a small traverse to the left and clip the chain.  
