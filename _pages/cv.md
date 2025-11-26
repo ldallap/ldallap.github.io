@@ -8,9 +8,9 @@ redirect_from:
 ---
 
 {% include base_path %}
-
+<!---
 [Full CV](https://www.dropbox.com/scl/fi/tcfgaipw59rg0i9290fjj/LDALLAP_AcademicCV.pdf?rlkey=rxxw3ey47dktn5je3mkdm6a0f&dl=0)
-
+-->
 
 Education
 ======
