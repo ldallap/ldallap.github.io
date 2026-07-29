@@ -27,7 +27,7 @@ Research experience
 
 Research stays
 ======
-**2025** Visiting Researcher, [Massimini Lab](unimi.it/en/ugov/person/marcello-massimini), *UNIMI, IT*.
+**2025** Visiting Researcher, [Massimini Lab](unimi.it/en/ugov/person/marcello-massimini), *UNIMI, IT*.  
 **2023** Visiting Researcher, [Destexhe Lab](https://neuropsi.cnrs.fr/equipe-alain-destexhe/), *Paris-Saclay, FR*.  
 **2023** Visiting Researcher, [Jirsa Lab](https://ins-amu.fr/jirsaviktor), *INS-AMU, FR*.  
 **2017** Visiting Researcher, [Mirasso Lab](https://ifisc.uib-csic.es/users/claudio/), *IFISC, ES*.  
