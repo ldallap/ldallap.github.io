@@ -12,26 +12,26 @@ Publications
 =====
   
 [Spatially structured heterogeneity shapes large-scale cortical dynamics in a model of the human cortex](https://doi.org/10.1073/pnas.2532072123)  
-Leonardo Dalla Porta, Jan Fousek, Alain Destexhe, Maria V. Sanchez-Vives. *PNAS*, 123(28), e2532072123, 2026. 
+Leonardo Dalla Porta, Jan Fousek, Alain Destexhe, Maria V. Sanchez-Vives. *PNAS*, 123(28), e2532072123, 2026.  
 [[code]](https://github.com/ldallap/HeterogeneousBrainModel) 
 
 [Functional Whole-Brain Models: A New Framework for Unifying Brain Structure and Cognitive Function](https://doi.org/10.48550/arXiv.2605.18118)  
 Mario Senden, Leonardo Dalla Porta, Jan Fousek, Jorge F. Mejias, Gorka Zamora-López. *arXiv*, 2026. 
 
 [Slow waves generation and propagation in a model of brain lesions](https://doi.org/10.1016/j.neuroimage.2026.121817)  
-Gianluca Gaglioti*, Leonardo Dalla Porta*, Michele Angelo Colombo, Simone Russo, Thierry Nieus, Gustavo Deco, Maurizio Corbetta, Simone Sarasso, Maria V. Sanchez-Vives, Marcello Massimini. *NeuroImage*, 329, 121817, 2026. 
+Gianluca Gaglioti*, Leonardo Dalla Porta*, Michele Angelo Colombo, Simone Russo, Thierry Nieus, Gustavo Deco, Maurizio Corbetta, Simone Sarasso, Maria V. Sanchez-Vives, Marcello Massimini. *NeuroImage*, 329, 121817, 2026.  
 [[code]](https://github.com/ldallap/PoilModel) 
 
 [Riemannian Geometry for the Classification of Brain States with Intracortical Brain Recordings](https://doi.org/10.1002/aisy.202500480)  
-Arnau Marin‐Llobet, Sergio Sánchez‐Manso, Arnau Manasanch, Lluc Tresserras, Xinhe Zhang, Yining Hua, Hao Zhao, Melody Torao‐Angosto, Maria V. Sanchez‐Vives, Leonardo Dalla Porta. *Adv. Intell. Syst.*, 8(2), e202500480, 2026. 
+Arnau Marin‐Llobet, Sergio Sánchez‐Manso, Arnau Manasanch, Lluc Tresserras, Xinhe Zhang, Yining Hua, Hao Zhao, Melody Torao‐Angosto, Maria V. Sanchez‐Vives, Leonardo Dalla Porta. *Adv. Intell. Syst.*, 8(2), e202500480, 2026.  
 [[code]](https://github.com/arnaumarin/LFP-Riemannian) 
 
 [Intra- and interhemispheric signatures of criticality at the onset of synchronization](https://doi.org/10.64898/2025.12.11.693654)  
 Leonardo Dalla Porta, Pietro Bozzo, Marco N. Pompili, Damien Depannemaecker, Antonio J. Fontenele, Tomoki Fukai, Pierpaolo Sorrentino, Giovanni Rabuffo. *bioRxiv*, 2025. 
 
 [The connectome modulates critical brain dynamics across local and global scales](https://doi.org/10.64898/2025.12.11.693658)  
-Giovanni Rabuffo, Pietro Bozzo, Bach Nguyen, Damien Depannemaecker, Marco N. Pompili, Leonardo L. Gollo, Tomoki Fukai, Pierpaolo Sorrentino, Leonardo Dalla Porta. *bioRxiv*, 2025. 
-[[code]](https://github.com/ldallap/PoilModel) 
+Giovanni Rabuffo, Pietro Bozzo, Bach Nguyen, Damien Depannemaecker, Marco N. Pompili, Leonardo L. Gollo, Tomoki Fukai, Pierpaolo Sorrentino, Leonardo Dalla Porta. *bioRxiv*, 2025.  
+[[code]](https://github.com/grabuffo/Multiscale_Brain_Criticality) 
 
 [State-dependent brain responsiveness, from local circuits to the whole brain](https://doi.org/10.1109/IJCNN64981.2025.11228470)  
 Alain Destexhe, Jennifer S Goldman, Nuria Tort-Colet, Axel Roques, Jan Fousek, Spase Petkoski, Viktor Jirsa, Olivier David, Maciej Jedynak, Cristiano Capone, Chiara MG De Luca, Giulia De Bonis, Pier S Paolucci, Ezequiel Mikulan, Andrea Pigorini, Marcello Massimini, Andrea Galluzzi, Antonio Pazienti, Maurizio Mattia, Alessandro Arena, Bjorn E Juel, Espen Hagen, Johan F Storm, Elena Montagni, Francesco Resta, Francesco S Pavone, Anna L Allegra Mascaro, Abhi Dwarakanath, Theofanis I Panagiotaropoulos, Johanna Senk, Markus Diesmann, Alessandra Camassa, Leo Dalla Porta, Arnau Manasanch, Maria V. Sanchez-Vives. *eLife*, 14, RP108768, 2025. 
