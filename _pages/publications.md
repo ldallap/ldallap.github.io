@@ -27,7 +27,8 @@ Arnau Marin‐Llobet, Sergio Sánchez‐Manso, Arnau Manasanch, Lluc Tresserras,
 [[code]](https://github.com/arnaumarin/LFP-Riemannian) 
 
 [Intra- and interhemispheric signatures of criticality at the onset of synchronization](https://doi.org/10.64898/2025.12.11.693654)  
-Leonardo Dalla Porta, Pietro Bozzo, Marco N. Pompili, Damien Depannemaecker, Antonio J. Fontenele, Tomoki Fukai, Pierpaolo Sorrentino, Giovanni Rabuffo. *bioRxiv*, 2025. 
+Leonardo Dalla Porta, Pietro Bozzo, Marco N. Pompili, Damien Depannemaecker, Antonio J. Fontenele, Tomoki Fukai, Pierpaolo Sorrentino, Giovanni Rabuffo. *bioRxiv*, 2025.  
+[[code]](https://github.com/ldallap/intra-interhemispheric-criticality)  
 
 [The connectome modulates critical brain dynamics across local and global scales](https://doi.org/10.64898/2025.12.11.693658)  
 Giovanni Rabuffo, Pietro Bozzo, Bach Nguyen, Damien Depannemaecker, Marco N. Pompili, Leonardo L. Gollo, Tomoki Fukai, Pierpaolo Sorrentino, Leonardo Dalla Porta. *bioRxiv*, 2025.  
@@ -40,7 +41,8 @@ Alain Destexhe, Jennifer S Goldman, Nuria Tort-Colet, Axel Roques, Jan Fousek, S
 Maria V. Sanchez-Vives, Arnau Manasanch, Andrea Pigorini, Alessandro Arena, Alessandra Camassa, Bjørn Erik Juel, Leonardo Dalla Porta, Cristiano Capone, Chiara De Luca, Giulia De Bonis, Jennifer Goldman, Maria Sacha, Andrea Galluzzi, Antonio Pazienti, Ezequiel Mikulan, Johan Storm, Pier Stanislao Paolucci, Marcello Massimini, Maurizio Mattia, Alain Destexhe. *eLife*, 14, RP108613, 2025. 
 
 [Characterizing sleep stages through the complexity-entropy plane in human intracranial data and in a whole-brain model](https://doi.org/10.48550/arXiv.2511.09243)  
-Helena Bordini de Lucas, Leonardo Dalla Porta, Alain Destexhe, Maria V. Sanchez-Vives, Osvaldo A. Rosso, Cláudio R. Mirasso, Fernanda Selingardi Matias. *arXiv*, 2025
+Helena Bordini de Lucas, Leonardo Dalla Porta, Alain Destexhe, Maria V. Sanchez-Vives, Osvaldo A. Rosso, Cláudio R. Mirasso, Fernanda Selingardi Matias. *arXiv*, 2025  
+[[code]](https://github.com/ldallap/SleepStagesModelTVB)  
 
 [Efficient on-chip cross-subject local field potential decoding for implantable neural interfaces](https://doi.org/10.1109/IJCNN64981.2025.11228470)  
 Arnau Marin-Llobet, Victoria Clerico, Samuel López-Asunción, Arnau Manasanch, Irene Merino, Melody Torao-Angosto, Pablo Ituero, Maria V. Sanchez-Vives, Leonardo Dalla Porta. *IEEE IJCNN*, 2161-4407, 2025. 
